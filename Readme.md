@@ -14,5 +14,5 @@ Special thanks to [entite West India Team](https://cloudnextextendedin.web.app/t
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/Google-Cloud-Next-Extended-20/issues) and please feel free to submit a PR anytime :)
 
